@@ -10,6 +10,6 @@
         <a href="kate_compound_interest">
             Kate's Compound Interest Calculator
         </a><br/>
-        <a href="conversion">conversion</a>
+        <a href="conversion2">Distance conversion</a>
     </body>
 </html>
